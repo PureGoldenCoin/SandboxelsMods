@@ -2,7 +2,7 @@ if (typeof elements !== 'undefined') {
     elements.death_potion = {
         color: ["#4a0e4e", "#2c003e", "#6a1b76"],
         behavior: behaviors.LIQUID,
-        category: "liquids",
+        category: "liquid",
         state: "liquid",
         density: 1050,
         viscosity: 20,
